@@ -14,4 +14,4 @@ Differentiation
 8) control the degree of difficulty: the more a snake get food, the faster it moves.  
 
 If you want to see these differences with pictures, open the file 'Differences' or mp4 files.  
-original code: https://github.com/borisuvarov/pyqt5-snake/blob/master/pyqt5_snake.py  
+original SnakeGame code: https://github.com/borisuvarov/pyqt5-snake/blob/master/pyqt5_snake.py  
