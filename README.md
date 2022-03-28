@@ -2,6 +2,7 @@
 upgrade SnakeGame implemented in PyQt5 which is already made with adding other functions  
 Duration: 2019.11-2019.12  
 Place: Kookmin University  
+Used Language/Tool: Python/PyQt5
 
 Differentiation  
 1) make game screen smaller and snake bigger for better turnover  
